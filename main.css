@@ -6,6 +6,7 @@ body {
 
 .title-background {
   background-color: transparent;
+  margin: 0 0 0 0;
 }
 
 .song-name {
@@ -17,7 +18,14 @@ body {
   color: rgba(255, 255, 255, 0.4);
 }
 
-
 .row:hover {
   background-color: #383838;
+}
+
+.input-pad {
+  padding: 3% 0%;
+}
+
+.jumbotron-fluid {
+  padding-bottom: 0;
 }
